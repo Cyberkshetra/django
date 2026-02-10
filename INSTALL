@@ -6,3 +6,4 @@ this command from the command prompt:
     python -m pip install .
 
 For more detailed instructions, see docs/intro/install.txt.
+######
